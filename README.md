@@ -21,11 +21,10 @@ I build full-stack and cloud projects, mostly under hackathon deadlines, and shi
 
 ## 🚀 Featured Projects
 
-- **[Dhool](https://github.com/Aaryan-Degama/Dhool_aws):** Tells you what your rooftop solar *should* have produced in that weather, and what to do when it falls short. Built for Environmental Hacks (WeMakeDevs × AWS).
-- **[Slate](https://github.com/Aaryan-Degama/slate):** Your real IIIT Allahabad timetable, including the class that just got cancelled. Built for First Commit (WeMakeDevs × AWS).
+- **[Vanta](https://github.com/Aaryan-Degama/Vanta):** A phone-wide semantic search multiplatform app, with the core engine written in C++.
 - **[TieTrace](https://github.com/Aaryan-Degama/TieTrace):** Checks how connected an expert is to a company, with the paper and DOI for every tie found. Built for FalkorDB Graph Hacks.
-- **[cp-calendar-sync](https://github.com/Aaryan-Degama/coddeforces_cal):** Syncs upcoming Codeforces contests into Google Calendar.
-- **[Portfolio](https://github.com/Aaryan-Degama/Portfolio):** Personal site with a neon design language.
+- **[Slate](https://github.com/Aaryan-Degama/slate):** Your real IIIT Allahabad timetable, including the class that just got cancelled. Built for First Commit (WeMakeDevs × AWS).
+- **[Dhool](https://github.com/Aaryan-Degama/Dhool_aws):** Tells you what your rooftop solar *should* have produced in that weather, and what to do when it falls short. Built for Environmental Hacks (WeMakeDevs × AWS).
 
 ## 🛠️ Core Technologies
 
