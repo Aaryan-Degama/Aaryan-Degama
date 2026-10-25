@@ -40,6 +40,6 @@ I build full-stack and cloud projects, mostly under hackathon deadlines, and shi
 
 ## 📫 Reach Me
 
-[Email](mailto:teda.meda.insaan@gmail.com) · [GitHub](https://github.com/Aaryan-Degama)
+[Portfolio](https://portfolio.aaryandegama.workers.dev/) · [Email](mailto:teda.meda.insaan@gmail.com) · [GitHub](https://github.com/Aaryan-Degama)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Degama&show_icons=true&theme=dark" height="150">
