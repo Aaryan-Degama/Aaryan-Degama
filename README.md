@@ -3,6 +3,8 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
@@ -28,9 +30,13 @@ I build full-stack and cloud projects, mostly under hackathon deadlines, and shi
 
 ## 🛠️ Core Technologies
 
-- **Languages:** Python, TypeScript, JavaScript
-- **Cloud & Data:** AWS (SAM, Amplify), FalkorDB, Docker, GitHub Actions
-- **Frontend:** React, Vite
+- **Languages:** C++, C, Python, JavaScript, Rust (learning)
+- **ML / DL:** PyTorch, ONNX Runtime, Transformers; CLIP, InsightFace, BERT (training, fine-tuning & ONNX export)
+- **Systems:** Linux (Fedora/Wayland), Git, CMake, JNI, Docker
+- **Cloud:** AWS (Amplify Gen 2, Lambda, DynamoDB, AppSync, Cognito, S3), Cedar
+- **Databases:** SQLite, sqlite-vec, MongoDB, MySQL
+- **Web / APIs:** Node.js, Express, FastAPI, React, TypeScript, REST
+- **Other:** Information Retrieval (RAG / Graph RAG), competitive programming
 
 ## 📫 Reach Me
 
