@@ -42,4 +42,4 @@ I build full-stack and cloud projects, mostly under hackathon deadlines, and shi
 
 [Portfolio](https://portfolio.aaryandegama.workers.dev/) · [Email](mailto:aaryandegama@gmail.com) · [GitHub](https://github.com/Aaryan-Degama)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Degama&show_icons=true&theme=dark" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Degama&show_icons=true&theme=dark&custom_title=Aaryan%20Degama%27s%20GitHub%20Stats" height="150">
