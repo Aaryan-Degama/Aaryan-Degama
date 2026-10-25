@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 </p>
 
-**Software engineer & hackathon builder | Competitive programmer**
+**Software engineer | Competitive programmer**
 
 I build full-stack and cloud projects, mostly under hackathon deadlines, and ship them end to end: working demo, tests, and docs. I like tools that tell you something true (and say what they don't know).
 
@@ -41,5 +41,3 @@ I build full-stack and cloud projects, mostly under hackathon deadlines, and shi
 ## 📫 Reach Me
 
 [Portfolio](https://portfolio.aaryandegama.workers.dev/) · [Email](mailto:teda.meda.insaan@gmail.com) · [GitHub](https://github.com/Aaryan-Degama)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Degama&show_icons=true&theme=dark" height="150">
